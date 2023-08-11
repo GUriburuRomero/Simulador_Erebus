@@ -8,7 +8,5 @@ orthographicViewHeight: 1
 textFiles: -1
 robotWindow: robot
 consoles: Console:All:All
-renderingDevicePerspectives: Erebus_Bot:camera1;1;1;0;0.20841
-renderingDevicePerspectives: Erebus_Bot:camera2;1;1;0.0590201;0.106033
-renderingDevicePerspectives: Erebus_Bot:camera3;1;1;0;0
+renderingDevicePerspectives: Erebus_Bot:camera1;1;1;0;0
 renderingDevicePerspectives: Erebus_Bot:colour_sensor;1;32;0;0
